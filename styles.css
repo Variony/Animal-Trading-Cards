@@ -1,0 +1,35 @@
+.interestingFact {
+  font-style: italic;
+}
+
+.animalInformation {
+  border-style: ridge;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+span {
+  font-weight: bold;
+}
+
+body {
+  border-style: ridge;
+  border-radius: 10px;
+  width: 400px;
+  box-shadow: 10px 10px 5px #888888;
+  margin: auto;
+  margin-top: 30px;
+  background-color: white;
+  padding: 5px;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+html {
+  background-color: black;
+}
