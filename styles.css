@@ -1,15 +1,15 @@
-.interestingFact {
+.interesting-fact {
   font-style: italic;
 }
 
-.animalInformation {
+.animal-information {
   border-style: ridge;
   margin: 10px;
   padding: 10px;
   border-radius: 10px;
 }
 
-span {
+.bold-list {
   font-weight: bold;
 }
 
@@ -17,7 +17,7 @@ body {
   border-style: ridge;
   border-radius: 10px;
   width: 400px;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #888;
   margin: auto;
   margin-top: 30px;
   background-color: white;
@@ -32,4 +32,8 @@ img {
 
 html {
   background-color: black;
+}
+
+li{
+  list-style-type: none;
 }
